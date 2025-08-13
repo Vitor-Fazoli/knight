@@ -1,0 +1,20 @@
+{
+  "name": "knight",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "bnelic team",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron .",
+    "css:debug": "npx @tailwindcss/cli -i ./input.css -o ./style.css --watch"
+  },
+  "devDependencies": {
+    "electron": "^37.2.6",
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11"
+  }
+}
