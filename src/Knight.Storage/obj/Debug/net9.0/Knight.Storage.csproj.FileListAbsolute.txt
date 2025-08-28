@@ -1,0 +1,12 @@
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\bin\Debug\net9.0\Knight.Storage.deps.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\bin\Debug\net9.0\Knight.Storage.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\bin\Debug\net9.0\Knight.Storage.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.AssemblyInfoInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.AssemblyInfo.cs
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.csproj.CoreCompileInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.sourcelink.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\refint\Knight.Storage.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\Knight.Storage.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Storage\obj\Debug\net9.0\ref\Knight.Storage.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\Knight.Git.csproj",
+      "projectUniqueName": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\Knight.Git.csproj",
       "projectName": "Knight.Git",
-      "projectPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\Knight.Git.csproj",
+      "projectPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\Knight.Git.csproj",
       "packagesPath": "C:\\Users\\vhfaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\obj\\",
+      "outputPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vhfaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

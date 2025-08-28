@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\Knight.Core.csproj",
+      "projectUniqueName": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\Knight.Core.csproj",
       "projectName": "Knight.Core",
-      "projectPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\Knight.Core.csproj",
+      "projectPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\Knight.Core.csproj",
       "packagesPath": "C:\\Users\\vhfaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\obj\\",
+      "outputPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vhfaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

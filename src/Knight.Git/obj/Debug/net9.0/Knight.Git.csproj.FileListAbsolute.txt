@@ -1,0 +1,12 @@
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\bin\Debug\net9.0\Knight.Git.deps.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\bin\Debug\net9.0\Knight.Git.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\bin\Debug\net9.0\Knight.Git.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.AssemblyInfoInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.AssemblyInfo.cs
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.csproj.CoreCompileInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.sourcelink.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\refint\Knight.Git.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\Knight.Git.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Git\obj\Debug\net9.0\ref\Knight.Git.dll

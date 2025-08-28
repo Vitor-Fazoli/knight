@@ -1,10 +1,32 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>knt</ToolCommandName>
+    <PackageId>Knight</PackageId>
+    <PackageDescription>Knight - Preserve your mental state, not just your code state</PackageDescription>
+    <Authors>Vitor Fazoli</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Vitor-Fazoli/knight</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Vitor-Fazoli/knight</RepositoryUrl>
+    <Version>0.0.1</Version>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
+    <PackageReference Include="Spectre.Console" Version="0.47.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../Knight.Core/Knight.Core.csproj" />
+    <ProjectReference Include="../Knight.Context/Knight.Context.csproj" />
+    <ProjectReference Include="../Knight.Storage/Knight.Storage.csproj" />
+    <ProjectReference Include="../Knight.Git/Knight.Git.csproj" />
+  </ItemGroup>
 </Project>

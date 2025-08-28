@@ -1,0 +1,12 @@
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\bin\Debug\net9.0\Knight.Core.deps.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\bin\Debug\net9.0\Knight.Core.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\bin\Debug\net9.0\Knight.Core.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.AssemblyInfoInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.AssemblyInfo.cs
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.csproj.CoreCompileInputs.cache
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.sourcelink.json
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\refint\Knight.Core.dll
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\Knight.Core.pdb
+C:\Users\vhfaz\OneDrive\Documentos\Projetos\knight\src\Knight.Core\obj\Debug\net9.0\ref\Knight.Core.dll

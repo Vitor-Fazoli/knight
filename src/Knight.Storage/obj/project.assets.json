@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\Knight.Storage.csproj",
+      "projectUniqueName": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\Knight.Storage.csproj",
       "projectName": "Knight.Storage",
-      "projectPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\Knight.Storage.csproj",
+      "projectPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\Knight.Storage.csproj",
       "packagesPath": "C:\\Users\\vhfaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\obj\\",
+      "outputPath": "c:\\Users\\vhfaz\\OneDrive\\Documentos\\Projetos\\knight\\src\\Knight.Storage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vhfaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
